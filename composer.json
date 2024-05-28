@@ -1,0 +1,24 @@
+{
+  "name": "austriannoah/libpmquery",
+  "description": "A Library for querying Minecraft Bedrock Servers",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "GPL-2.0-only",
+  "authors": [
+    {
+      "name": "Noah W.",
+      "email": "mcpe@austriannoah.xyz"
+    }
+  ],
+  "minimum-stability": "beta",
+  "prefer-stable": true,
+  "require": {
+    "php": "8.1"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "austriannoah\\libpmquery\\": "src/austriannoah/libpmquery"
+    }
+  }
+}

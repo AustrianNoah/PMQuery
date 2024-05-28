@@ -1,0 +1,7 @@
+name: LibPMQuery
+version: 1.0.0
+antigen: austriannoah\libpmquery
+php:
+  - 7.4
+  - 8.1
+author: AustrianNoah
