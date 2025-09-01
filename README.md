@@ -23,7 +23,7 @@ class ExampleCode extends PluginBase {
     {
         try {
             $query = PMQuery::query("geo.hivebedrock.network", 19132);
-            $onlinePlayers = (int) $query["Players"];
+            $onlinePlayers = (int) $query["OnlinePlayers"];
             $maxPlayers = (int) $query["MaxPlayers"];
             $hostName = (string) $query["HostName"];
             $this->getLogger()->info("Queried Hive Games");
@@ -37,3 +37,4 @@ class ExampleCode extends PluginBase {
 }
 
 ```
+
