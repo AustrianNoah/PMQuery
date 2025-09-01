@@ -1,5 +1,5 @@
 {
-  "name": "austriannoah/libpmquery",
+  "name": "austriannoah/PMQuery",
   "description": "A Library for querying Minecraft Bedrock Servers",
   "version": "1.0.0",
   "type": "library",
@@ -18,7 +18,7 @@
 
   "autoload": {
     "psr-4": {
-      "austriannoah\\libpmquery\\": "src/austriannoah/libpmquery"
+      "austriannoah\\PMQuery\\": "src/austriannoah/PMQuery"
     }
   }
 }
