@@ -18,7 +18,7 @@
 
   "autoload": {
     "psr-4": {
-      "austriannoah\\PMQuery\\": "src/austriannoah/PMQuery"
+      "austriannoah\\pmquery\\": "src/austriannoah/PMQuery"
     }
   }
 }
