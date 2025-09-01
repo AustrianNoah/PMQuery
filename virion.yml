@@ -1,6 +1,6 @@
 name: LibPMQuery
 version: 1.0.0
-antigen: austriannoah\libpmquery
+antigen: austriannoah\PMQuery
 php:
   - 7.4
   - 8.1
